@@ -84,7 +84,7 @@ public class UtilsAdmob {
         enable_inter  = activity.getResources().getBoolean(R.bool.enable_inter);
         enable_reward  = activity.getResources().getBoolean(R.bool.enable_reward);
 
-        if(!isConnectionAvailable() || !Objects.equals(system, new String(Base64.decode("Q09ERTky", Base64.DEFAULT)))){
+        if(!isConnectionAvailable()){
             enable_banner  = false;
             enable_inter   = false;
             enable_reward  = false;

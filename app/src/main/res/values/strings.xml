@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">Game</string>
 
-    <bool name="is_testing">true</bool>
+    <bool name="is_testing">false</bool>
 
     <bool name="enable_banner">true</bool>
         <bool name="banner_at_bottom">true</bool>
         <bool name="banner_not_overlap">true</bool>
-        <string name="id_banner">ca-app-pub-3940256099942544/6300978111</string>
+        <string name="id_banner">ca-app-pub-1107570695085285/8996121093</string>
 
     <bool name="enable_inter">true</bool>
         <string name="id_inter">ca-app-pub-3940256099942544/1033173712</string>
