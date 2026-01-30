@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Game</string>
+    <string name="app_name">Puzzle Mayan</string>
 
     <bool name="is_testing">false</bool>
 
